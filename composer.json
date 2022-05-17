@@ -1,0 +1,7 @@
+{
+    "require": {
+        "slim/slim": "3.0",
+        "mercadopago/dx-php": "^2.4",
+        "tuupola/cors-middleware": "^1.3"
+    }
+}
